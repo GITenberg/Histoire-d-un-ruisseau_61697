@@ -1,5 +1,8 @@
 _repo: Histoire-d-un-ruisseau_61697
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61697-h/images/cover.jpg
 creator:
   author:
     agent_name: Reclus, Elisée
@@ -16,6 +19,8 @@ creator:
     - https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
     - https://es.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61697#Histoire-d-un-ruisseau
 gutenberg_bookshelf:
 - FR Education et Enseignement
 - FR Nouveautés
